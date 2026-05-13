@@ -1,4 +1,4 @@
-# Universal Syntax Lab: Library System
+# Syntax Lab for Library System
 
 This project provides a side-by-side comparison of **Fundamental Programming Syntax**. By looking at the same "Library System" logic in 4 different languages, you can see how each handles data, loops, and user input.
 
